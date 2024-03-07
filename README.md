@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [E-Cell CTU](https://master--ecell-ctu.netlify.app/)
 
-- 🌱 I’m currently learning **Frontend, ReactJs**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/princesinghrajput](https://github.com/princesinghrajput)
 
