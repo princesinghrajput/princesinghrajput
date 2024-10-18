@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Coding+Universe!;I'm+Prince+Singh+Rajput;Full+Stack+MERN+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=00FFFF">
 </div>
@@ -91,6 +90,8 @@
 </div>
 
 <div align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 </div>
 
