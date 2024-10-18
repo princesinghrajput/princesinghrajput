@@ -30,6 +30,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=princesinghrajput&show_icons=true&locale=en&layout=compact" alt="princesinghrajput" /></p>
 
-<p>&nbsp;![princesinghrajput's Stats](https://github-readme-stats.vercel.app/api?username=princesinghrajput&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=princesinghrajput&show_icons=true&locale=en" alt="princesinghrajput" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princesinghrajput&" alt="princesinghrajput" /></p>
