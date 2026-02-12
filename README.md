@@ -1,259 +1,111 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Prince%20Kumar&fontSize=70&color=0:0a0a0f,100:0d1117&fontColor=58a6ff&strokeWidth=2&stroke=58a6ff&animation=fadeIn&fontAlignY=65&descSize=16&descAlignY=82&desc=Full%20Stack%20Developer%20%E2%80%94%20Building%20at%20the%20edge%20of%20what%E2%80%99s%20possible&descColor=8b949e"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I%27m+Prince+Kumar;Full+Stack+Developer;React+19+%7C+Next.js+%7C+Node.js+%7C+AWS&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000&color=00FFFF">
 </div>
 
-<br/>
+<p align="center">
+  <a href="https://github.com/princesinghrajput">
+    <img src="https://komarev.com/ghpvc/?username=princesinghrajput&label=Profile%20views&color=00FFFF&style=for-the-badge" alt="profile views" />
+  </a>
+  <a href="https://github.com/princesinghrajput?tab=followers">
+    <img src="https://img.shields.io/github/followers/princesinghrajput?label=Followers&style=for-the-badge&color=00FFFF" alt="followers" />
+  </a>
+  <a href="https://twitter.com/its_me_prince1_">
+    <img src="https://img.shields.io/twitter/follow/its_me_prince1_?style=for-the-badge&color=00FFFF" alt="Twitter followers" />
+  </a>
+</p>
+
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="300" />
+</p>
+
+<p align="center">
+  🚀 Full Stack Developer | ⚡ MERN + TypeScript + AWS | 🏅 Gold Medalist · CGPA 8.67
+</p>
+
+<p align="center">
+  ➤ Currently building at <b>@Sensation Software Solutions, Mohali</b><br>
+  ➤ Shipped <strong>8+ production products</strong> handling 50,000+ daily API requests<br>
+  ➤ Ask me about <strong>React 19, Next.js, Node.js, WebRTC, Docker, and System Design</strong><br>
+  ➤ Reach me at: <strong>hello@princecodes.com</strong> · <strong>www.princecodes.com</strong><br>
+  ➤ Fun fact: <strong>I architect the whole system in my head before writing a single line of code!</strong>
+</p>
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" alt="JavaScript">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50" alt="React">
+  <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/200.webp" width="50" alt="Node.js">
+  <img src="https://media3.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50" alt="Python">
+  <img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/200.webp" width="50" alt="Typescript">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React 19" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" alt="WebRTC" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+</p>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesinghrajput&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=princesinghrajput&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesinghrajput&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=princesinghrajput&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://twitter.com/its_me_prince1_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/prince-kumar-05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/the_deadlock_prince" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/c/𝕻𝖗𝖎𝖓𝖈𝖊" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.princecodes.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=60&lines=React+19+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+AWS;Building+systems+that+handle+50%2C000%2B+daily+requests;Currently+%40+Sensation+Software+Solutions%2C+Mohali)](https://github.com/princesinghrajput)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/◈_princecodes.com-0d1117?style=flat-square&logoColor=58a6ff&labelColor=161b22&color=58a6ff)](https://www.princecodes.com)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=58a6ff&color=161b22)](https://linkedin.com/in/prince-kumar-05)&nbsp;&nbsp;
-[![Twitter](https://img.shields.io/badge/@its__me__prince1__-161b22?style=flat-square&logo=twitter&logoColor=58a6ff&color=161b22)](https://twitter.com/its_me_prince1_)&nbsp;&nbsp;
-[![Mail](https://img.shields.io/badge/hello@princecodes.com-161b22?style=flat-square&logo=gmail&logoColor=58a6ff&color=161b22)](mailto:hello@princecodes.com)&nbsp;&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=princesinghrajput&color=58a6ff&style=flat-square&label=visitors)](https://github.com/princesinghrajput)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-```typescript
-const prince: Developer = {
-  location:    "New Delhi, India 🇮🇳",
-  role:        "Full Stack Developer",
-  company:     "Sensation Software Solutions",
-  experience:  "2+ years",
-  education:   "B.Tech CSE · Gold Medalist · CGPA 8.67 · CT University",
-
-  currentlyBuilding: ["College ERP (CERP)", "TailUX Design System", "LeadNest CRM"],
-  exploring:         ["Web3", "Kubernetes", "AI-powered interfaces"],
-
-  stack: {
-    frontend:  ["React 19", "Next.js 15", "TypeScript", "React Native", "Tailwind CSS"],
-    backend:   ["Node.js", "Express", "Fastify", "WebRTC", "Socket.io"],
-    databases: ["MongoDB", "PostgreSQL", "Redis", "Prisma"],
-    cloud:     ["AWS EC2/ECS/S3", "Docker", "Jenkins", "CloudFront"],
-    web3:      ["Web3.js", "Ethers.js", "MetaMask", "Smart Contracts"],
-  },
-
-  funFact: "I architect systems before I write a single line of code.",
-};
-```
-
-<br/>
-
----
-
-<br/>
-
-## ⚡ What I've Shipped
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 TraceVenue
-**Multi-tenant B2B2C Venue Booking Platform**
-
-Real-time booking sync · JWT RBAC · 3-tier roles
-
-`10,000+ bookings` `AWS EC2 + Docker` `Socket.IO`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 College ERP (CERP)
-**Enterprise Academic Platform · React 19 + TypeScript**
-
-Led a team of 4–6 devs · 17+ modules · 1,300+ components
-
-`Frontend architecture` `Performance standards`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💳 AppyPay
-**Digital Payments Merchant Dashboard**
-
-Redux Toolkit · KYC/Merchant onboarding · Material-UI
-
-`40% faster onboarding` `Compound components`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎨 TailUX Design System
-**Custom component library on TailwindCSS 4**
-
-Exam Seating Planner · Drag-and-drop · PDF/Excel exports
-
-`40% less UI dev time` `Visual grid allocation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 SensationCRM (LeadNest)
-**Lead Pipeline Management · React 19 + Vite**
-
-Drag-and-drop form builder · Fuzzy search · Excel/PDF export
-
-`10,000+ records` `TanStack Table`
-
-</td>
-<td width="50%" valign="top">
-
-### 🍽️ TraceMenu
-**QR-based Restaurant Management System**
-
-Real-time kitchen display · MongoDB transactions · Nodemailer
-
-`50+ restaurants` `30% efficiency gain`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
----
-
-<br/>
-
-## 🚀 Personal Projects
-
-<br/>
-
-<div align="center">
-
-| &nbsp; | Project | What makes it interesting |
-|:---:|---|---|
-| 🔴 | **[Virtual Focus Room](https://github.com/princesinghrajput)** · React 19, React Native, WebRTC | Full P2P video/audio · STUN servers · `RTCRtpSender.replaceTrack` · Pomodoro + whiteboard |
-| 🟠 | **[AlgoForge LMS](https://github.com/princesinghrajput)** · Next.js 15, AWS S3, CloudFront | 60% server load drop · adaptive bitrate streaming · 1,000+ students · 99.5% uptime |
-| 🟡 | **[DrawIO Whiteboard](https://github.com/princesinghrajput)** · ConvexDB, React Flow | CRDT conflict resolution · live cursors · 50+ concurrent users · infinite canvas |
-| 🟢 | **[CodeForge Cloud IDE](https://github.com/princesinghrajput)** · Docker, xterm.js, WebSockets | Isolated Linux containers per session · full in-browser terminal · real-time file explorer |
-| 🔵 | **[ErgoSmart AI Coach](https://github.com/princesinghrajput)** · TensorFlow.js, MediaPipe, WebGL | 30fps inference · 33-point skeleton · zero backend · WebGL accelerated |
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 🛠️ Technology Radar
-
-<br/>
-
-<div align="center">
-
-**Languages & Runtimes**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-LTS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-mobile-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-2.x-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-4.x-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Real-time**
-
-![Express](https://img.shields.io/badge/Express-4.x-ffffff?style=flat-square&logo=express&logoColor=black)
-![Fastify](https://img.shields.io/badge/Fastify-4.x-000000?style=flat-square&logo=fastify&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-4.x-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-P2P-333333?style=flat-square&logo=webrtc&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-3.x-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-
-**Databases & Cache**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-7.x-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-7.x-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-5.x-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-EC2_·_ECS_·_S3-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-**Web3**
-
-![Web3.js](https://img.shields.io/badge/Web3.js-4.x-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-6.x-2535A0?style=flat-square&logo=ethereum&logoColor=white)
-![MetaMask](https://img.shields.io/badge/MetaMask-Wallet_Integration-E2761B?style=flat-square&logo=metamask&logoColor=white)
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-## 📈 GitHub Activity
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=princesinghrajput&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&count_private=true&ring_color=58a6ff&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=princesinghrajput&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=cdd9e5&sideNums=cdd9e5&dates=8b949e"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </div>
 
 <div align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesinghrajput&theme=github_dark_dimmed&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=8"/>
-
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with developers and builders</b> — if you want to say <b>hi or collaborate, I'm always happy to connect!</b> 😊</em>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=princesinghrajput&bg_color=0d1117&color=58a6ff&line=58a6ff&point=cdd9e5&area_color=0d1117&area=true&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+  Thanks for visiting my profile! Have a fantastic day! 🌟
 </div>
 
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
-### Let's build something remarkable.
-
-<br/>
-
-[![Say Hi](https://img.shields.io/badge/Say_hi_→_hello@princecodes.com-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=161b22&color=161b22)](mailto:hello@princecodes.com)
-&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open_to_Opportunities-0d1117?style=for-the-badge&logo=handshake&logoColor=3fb950&labelColor=161b22&color=161b22)](https://linkedin.com/in/prince-kumar-05)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer&fontColor=58a6ff"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
