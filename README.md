@@ -28,7 +28,6 @@
   ➤ Currently building at <b>@Sensation Software Solutions, Mohali</b><br>
   ➤ Shipped <strong>8+ production products</strong> handling 50,000+ daily API requests<br>
   ➤ Ask me about <strong>React 19, Next.js, Node.js, WebRTC, Docker, and System Design</strong><br>
-  ➤ Reach me at: <strong>hello@princecodes.com</strong> · <strong>www.princecodes.com</strong><br>
   ➤ Fun fact: <strong>I architect the whole system in my head before writing a single line of code!</strong>
 </p>
 
