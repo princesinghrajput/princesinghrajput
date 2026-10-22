@@ -1,5 +1,6 @@
+ 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I%27m+Prince+Kumar;Full+Stack+Developer;React+19+%7C+Next.js+%7C+Node.js+%7C+AWS&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000&color=00FFFF">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I%27m+Prince+Kumar;Senior+Software+Engineer+%40+Pixory;Full+Stack+Developer+%7C+AI+Enthusiast&font=Fira%20Code&center=true&width=440&height=50&duration=4000&pause=1000&color=00FFFF">
 </div>
 
 <p align="center">
@@ -21,14 +22,15 @@
 </p>
 
 <p align="center">
-  🚀 Full Stack Developer | ⚡ MERN + TypeScript + AWS | 🏅 Gold Medalist · CGPA 8.67
+  🚀 Senior Software Engineer | ⚡ Full Stack · TypeScript · AWS
 </p>
 
 <p align="center">
-  ➤ Currently building at <b>@Sensation Software Solutions, Mohali</b><br>
-  ➤ Shipped <strong>8+ production products</strong> handling 50,000+ daily API requests<br>
-  ➤ Ask me about <strong>React 19, Next.js, Node.js, WebRTC, Docker, and System Design</strong><br>
-  ➤ Fun fact: <strong>I architect the whole system in my head before writing a single line of code!</strong>
+  ➤ Currently working at <b>Pixory</b><br>
+  ➤ Building and maintaining production applications and editor experiences<br>
+  ➤ Working with <strong>React, Next.js, Node.js, TypeScript, and System Design</strong><br>
+  ➤ Interested in <strong>AI Engineering, LLMs, and building useful AI applications</strong><br>
+  ➤ Fun fact: <strong>I love solving complex problems and building things from scratch!</strong>
 </p>
 
 <h3 align="center">🛠️ Tech Stack</h3>
@@ -98,11 +100,11 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with developers and builders</b> — if you want to say <b>hi or collaborate, I'm always happy to connect!</b> 😊</em>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with developers and builders</b> — always happy to exchange ideas and collaborate!</em>
 </div>
 
 <div align="center">
-  Thanks for visiting my profile! Have a fantastic day! 🌟
+  Thanks for visiting my profile! Have a great day! 🌟
 </div>
 
 <p align="center">
